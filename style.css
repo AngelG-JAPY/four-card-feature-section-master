@@ -107,7 +107,7 @@ body {
     border-top: 5px solid var(--blue)
 }
 
-@media screen and (min-width: 375px) and (max-width: 720px){
+@media screen and (min-width: 375px) and (max-width: 1000px){
     .cards{
         width: 350px;
         height: auto;
